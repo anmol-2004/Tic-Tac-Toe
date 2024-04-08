@@ -1,4 +1,4 @@
-#Tic Tac Toe Game
+# Tic Tac Toe Game
 This project is a Tic Tac Toe game built using HTML, CSS, and JavaScript. It offers a classic gaming experience where two players take turns marking spaces in a 3x3 grid, aiming to achieve a winning combination of their symbols (typically "X" and "O") in a row, column, or diagonal.
 
 Features
